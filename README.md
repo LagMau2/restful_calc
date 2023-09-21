@@ -26,16 +26,16 @@ sudo apt install npm
 
 sudo npm install express --save
 
-#Como usar
+# Como usar
 Para usar la calculadora, es necesario el uso de la aplicación postman, en la cual
 
 se podran ingresar los valores y segun el metodo que se utilize de la tabla restful,
 
 te devolvera el resultado.
 
-#Autor
+# Autor
 Mauricio Ramirez Ruiz 348705 
 
-#Fecha
+# Fecha
 20/09/2023
 
